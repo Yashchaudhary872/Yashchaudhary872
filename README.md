@@ -1,171 +1,115 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yash%20Chaudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Chaudhary+%F0%9F%91%8B;Data+Analyst+in+the+Making;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chaudhary-778a5732a/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharyyash872@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Noida%2C%20India-2c5364?style=for-the-badge)](https://maps.google.com/?q=Noida,India)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00B37E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash--chaudhary--/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2C5364?style=flat-square&logo=vercel&logoColor=white)](https://yashchaudharyportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaudharyyash872@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00B37E?style=flat-square&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/yash--chaudhary--/)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-> *"I don't just clean data — I find the story hiding inside it."*
+I'm a **B.Tech Information Technology** student at **JSS Academy of Technical Education, Noida** (Class of 2027), building a portfolio that turns real-world datasets into clear, decision-ready insights.
 
-I'm a **B.Tech Information Technology** student at **JSS Academy of Technical Education, Noida** (Class of 2027), specializing in **Data Analytics**. I love working at the intersection of data, business decisions, and fintech — turning messy datasets into dashboards that actually drive action.
+I don't chase generic datasets. Every project I build is grounded in companies and products people actually use.
 
-- 🏦 Deeply interested in **fintech, payments & risk analytics**
-- 📊 Hands-on with **EDA, SQL querying, Power BI dashboards & Python pipelines**
-- 🧹 Real-world experience cleaning **8,000+ records** at a data science internship
-- 🎯 Currently building projects in **fraud detection, customer churn & RFM segmentation**
-- 🔍 Actively seeking **Data Analyst internships & entry-level roles**
+- 📊 Strong in **SQL window functions, Python EDA, and dashboard storytelling**
+- 🔍 Real internship experience cleaning 8,000+ records at CodVeda Technologies
+- 🤝 Open to **Data Analyst roles across all industries** — September 2026 start
+- 🎯 Comfortable working with messy data, ambiguous problems, and tight deadlines
+
+---
+
+## 🚀 Projects
+
+### 📱 [PhonePe Transaction Analytics](https://github.com/Yashchaudhary872/phonepe-transaction-analytics)
+> Analysed PhonePe's public pulse data across Indian states & districts to uncover UPI adoption patterns, device usage trends, and transaction volume shifts from 2018–2023.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `EDA`
+
+**What I found:** Maharashtra & Karnataka drive 40%+ of total UPI value; feature phones still account for significant rural transaction share — insight relevant for product growth teams.
+
+---
+
+### 🛒 [Zepto SQL Analysis](https://github.com/Yashchaudhary872/Zepto-SQL-Analysis-project)
+> Built a full SQL analytics layer on a simulated Zepto quick-commerce dataset — inventory management, delivery SLA tracking, category-level revenue, and customer order frequency.
+
+`SQL` `Window Functions` `CTEs` `Subqueries` `PostgreSQL`
+
+**What I found:** Dark store replenishment gaps spiked during peak order windows; top 20% of customers drove 65% of GMV — classic quick-commerce concentration risk.
+
+---
+
+### 🌍 [Global Airbnb Power BI Dashboard](https://github.com/Yashchaudhary872/Global-Airbnb-PowerBI-Dashboard)
+> Interactive Power BI dashboard across 10+ city markets — pricing by neighbourhood, host performance metrics, occupancy rate trends, and review sentiment buckets.
+
+`Power BI` `DAX` `Data Modeling` `Excel`
+
+**What I found:** Superhosts in top-10 neighbourhoods command a 28% price premium; occupancy drops sharply for listings priced above the 90th percentile — pricing elasticity insight.
+
+---
+
+### 🛍️ [Retail Sales Analysis](https://github.com/Yashchaudhary872/Retail-Sales-Analysis-SQL-Project-P1)
+> SQL-based analysis on a retail sales dataset — querying transaction records to surface revenue trends, top-performing categories, seasonal patterns, and customer purchase behaviour.
+
+`SQL` `Aggregations` `GROUP BY` `JOINs` `Subqueries`
+
+**What I found:** A small subset of product categories drove the majority of revenue; weekend transactions showed consistently higher average order values than weekday purchases.
+
+---
+
+### 🇮🇳 [UIDAI Aadhaar Enrolment Analysis](https://github.com/Yashchaudhary872/uidai-data-analysis)
+> Cleaned and analysed multi-year UIDAI enrolment data across Indian states and months — mapping enrolment spikes to government policy milestones using time-series visualisations.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `EDA`
+
+**What I found:** Enrolment surged 3x in states following targeted outreach drives; north-eastern states showed persistent enrolment gaps relative to population — a public policy insight.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages & Querying
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 UPI Fraud Detection Analysis</h3>
-      <p>Analysed 284,000+ transaction records to identify fraud patterns using rule-based scoring. Built a Power BI dashboard tracking fraud rate by hour, geography & merchant category.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      </p>
-      <p><b>Key result:</b> Flagged top 2% high-risk transactions with rule-based scoring model</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📉 Customer Churn Analysis</h3>
-      <p>Built a churn prediction model on 7,000 bank records. Identified tenure and balance as top churn drivers using EDA + logistic regression.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <p><b>Key result:</b> 82% prediction accuracy · Retention dashboard with cohort drop-off tracking</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 E-commerce RFM Segmentation</h3>
-      <p>SQL joins across 9 tables on 100k Olist orders. RFM segmentation into 4 customer tiers + funnel analysis revealing a 34% cart abandonment rate.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      </p>
-      <p><b>Key result:</b> Customer value tiers mapped to targeted retention strategies</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Housing Price Analysis</h3>
-      <p>Cleaned and analysed 8,000+ property records. Identified key price drivers — location, size, amenities — using EDA and Power BI dashboards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      </p>
-      <p><b>Key result:</b> 15% improvement in data accuracy after outlier removal & standardisation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Sales Insights Dashboard</h3>
-      <p>Interactive Power BI dashboard monitoring sales across 5 regions and 20+ product categories. DAX measures for revenue growth, top products & KPIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      </p>
-      <p><b>Key result:</b> Automated KPI tracking replacing manual monthly reporting</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🇮🇳 Aadhaar Enrolment Data Analysis</h3>
-      <p>Cleaned multi-year UIDAI enrolment data by state & month. Time-series visualisations linked to policy decisions — similar to compliance analytics in fintech.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-      <p><b>Key result:</b> Regional adoption trends mapped to regulatory programme timelines</p>
-    </td>
-  </tr>
-</table>
+| Category | Tools |
+|---|---|
+| **Languages** | Python · SQL |
+| **Python Libraries** | Pandas · NumPy · Matplotlib · Seaborn |
+| **BI & Visualization** | Power BI · Tableau · Excel |
+| **Database** | PostgreSQL · MySQL |
+| **Tools** | Git · GitHub · Jupyter Notebook · VS Code |
 
 ---
 
 ## 💼 Experience
 
-**Data Science Intern** · *CodVeda Technologies, Noida* · `Nov 2025 – Dec 2025`
+**Data Science Intern** · CodVeda Technologies, Noida · `Nov 2025 – Dec 2025`
 
-- Collected, cleaned and structured **8,000+ housing records** using Python (Pandas) and Excel — improving data accuracy by **~15%**
-- Removed **112 outliers** and standardised **200+ locality name inconsistencies**, increasing downstream analysis reliability
-- Performed EDA to uncover pricing trends and demand patterns; presented findings via **Power BI dashboards** to non-technical stakeholders
-- Documented end-to-end data pipeline and translated business questions into analysis tasks
+- Cleaned and structured **8,000+ housing records** using Python (Pandas) + Excel, improving data accuracy by ~15%
+- Removed **112 outliers** and standardised 200+ locality name inconsistencies for downstream reliability
+- Built Power BI dashboards to communicate pricing trend findings to non-technical stakeholders
 
 ---
 
 ## 🏆 Certifications
 
-<div align="center">
-
-| Certificate | Issued By | Platform |
-|---|---|---|
-| 🏅 Data Analytics Job Simulation | **Deloitte** | Forage |
-| 🏅 Data Science Job Simulation | **British Airways** | Forage |
-| 🏅 Generative AI Fundamentals | **Google Cloud** | Forage |
-
-</div>
+| Certificate | Issuer |
+|---|---|
+| Google Data Analytics Professional Certificate | Google / Coursera |
+| Data Analytics Job Simulation | Deloitte (Forage) |
+| Data Science Job Simulation | British Airways (Forage) |
+| Generative AI Fundamentals | Google Cloud |
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — Information Technology | JSS Academy of Technical Education, Noida | 2023 – 2027 | Pursuing |
-| Class XII — CBSE | — | 2022 | **85%** |
-| Class X — CBSE | — | 2020 | **87%** |
-
-</div>
+**B.Tech — Information Technology**
+JSS Academy of Technical Education, Noida · 2023 – 2027
 
 ---
 
@@ -173,23 +117,9 @@ I'm a **B.Tech Information Technology** student at **JSS Academy of Technical Ed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashchaudhary872&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashchaudhary872&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm actively looking for **Data Analyst internships and entry-level roles** across India (Noida / remote preferred).
-
-If you work in fintech, analytics, or consulting — I'd love to connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chaudhary-778a5732a/)
-[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharyyash872@gmail.com)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashchaudhary872&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2C5364&icon_color=203A43&text_color=333333)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashchaudhary872&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2C5364&text_color=333333)
 
 </div>
 
@@ -197,8 +127,9 @@ If you work in fintech, analytics, or consulting — I'd love to connect!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+**Actively looking for Data Analyst roles — open to all industries & domains. Let's connect!**
 
-<sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash--chaudhary--/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2C5364?style=for-the-badge&logo=vercel&logoColor=white)](https://yashchaudharyportfolio.netlify.app/)
 
 </div>
